@@ -1,3 +1,7 @@
+GitHub Page'i ziyaret etmek için: https://oqyshan.github.io/
+
+___________________________________________________________________
+
 # 📊 Veri Bilimi & Yapay Zeka Yolculuğum
 
 Merhaba, ben **Oğuzhan Ünal**. Gebze Teknik Üniversitesi Matematik Bölümü mezunuyum ve veri bilimi ile yapay zeka alanlarında kendimi geliştiriyorum.
