@@ -56,6 +56,15 @@ Bir yandan genel sektöre bakmaya ve araştırmaya devam ediyorum fakat durum hi
 
 </details>
 
+<details>
+<summary><b>Gün 2 — 15.07.2026</b></summary>
+
+<br>
+
+*(Yarın gece burayı dolduracağım.)*
+
+</details>
+
 <!--
 YENİ GÜN EKLEME ŞABLONU (kopyala, altına yapıştır, doldur):
 
