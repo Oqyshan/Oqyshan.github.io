@@ -43,7 +43,16 @@ Yarından itibaren (Gün 1, 14.07.2026) başlıyoruz. 🚀
 
 <br>
 
-*(Yarın buraya gelecek.)*
+Coursera üzerinden Google Data Analytics eğitimlerinde ilerleme kat ettim. Veri ile çalışırken izlenilmesi gereken yol üzerine teorik bilgiler(plan, capture, manage, analyze, archive and destroy) öğrendik. Spreadsheets ve excel kullanımı üzerine çalışmalar ve fonksiyonlarla, formüllerle pratikler yaptık, henüz temel aşamadayız.
+
+Vakti daha verimli kullanmak adına iş bölümü ve planlama yapıldı. Günümü ve vaktimi 4'e bölme planını uygulamaya çalışıyorum; Coursera kursları, ML ve ilgili öğretici kitaplar, Veri yapıları ve algoritmalar (Leetcode soruları) ve kendime vakit ayırmak.
+
+Öğrenim sürecinde öğrenilen bilgileri ya test etmeye ya da teorik ise not alarak ilerlemeye gayret ediyorum. Kısa süreli öğrenerek hızlı ilerlemektense kalıcı şekilde bende kalsın ve nispeten daha yavaş ilerleyeyim. Bu konular derya deniz koskoca birer okyanus ve ben unutkan bir insanım. Öğrensem bile kısa süre içerisinde unutabilirim. Not alarak, hazmederek ilerlemek benim için çok daha iyi olacaktır. Test etmek için 15.07 yi merakla bekliyoruz. 
+
+Bir yandan genel sektöre bakmaya ve araştırmaya devam ediyorum fakat durum hiç umut vermiyor, sektör parasal anlamda çok darda olduğu için yeni kişi alımı pek yapılmıyor. Bunlar ileride değişecek olabilir de olmayabilir de fakat şu anki güncel vaziyete bakarak çalışmak giderek zorlaşıyor. Yapay Zeka devrimi, ekonomik kriz, savaşlar... her dönemde olduğu gibi tüm zamanların en zorlayıcı döneminde yeni mezun bir öğrenciyim. Tek seçeneğim ise çalışmak. 
+5/10 bir gün idi, güzel başladık fakat devamı gelmedi. Çok daha fazla çalıştığım ve verimli olan günler görmek dileğiyle, bugünlük bu kadar. 
+
+
 
 </details>
 
