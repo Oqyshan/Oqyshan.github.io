@@ -61,10 +61,20 @@ Bir yandan genel sektöre bakmaya ve araştırmaya devam ediyorum fakat durum hi
 
 <br>
 
-*(Yarın gece burayı dolduracağım.)*
+Eveeet... Yeni bir gün başlangıcı, yine bir günün sonu. Bugün Tübitak 2209a projemizin jira üzerinden sprintlerini belirledik ve kullanacağımız araçları, yöntemleri kafamızda toplantı ile tasarladık. Genel olarak kurslarla da ilgilendiğim bir gün oldu fakat bugünün en önemli kısmı agile çalışma sistemine ilk adımı jira platformu ile atmış olmam ve gerçek anlamda geliştireceğimiz bir projeyi detaylarıyla tartışıp planladığımız bir toplantı geçirmem. Bunlar dışında linkedln'de mezuniyet postumu paylaştım, post paylaşmak da benim gibi alışık olmayanlar içi gerçekten uzun sürebilen bir olay. Alışkanlık haline getirip görünür olmakta fayda var sanırım ama bana yapay geliyor, elbette bir şans vermek lazım. Dün bahsettiğim günü bölüp çalışma düzen ve disiplinini sağlayamadım çünkü elle tutulur bir motivasyon kendimde çok bulamıyorum, fakat bu yaptığımız toplantıda 2 haftalık sprintimi belirledim o konular üzerine çalışmalar yapabilirim. Bu güne 6/10 veriyorum. Çalıştıklarımızın karşılığını aldığımız, hayırlı güzel işler peşinde koşturup helalinden güzel para kazandığımız gelecekleri iple çekiyoruz.(Biraz burası günlük gibi olmaya başladı pek çalıştığım ve öğrendiğim şeyleri anlatamıyorum çünkü gerçek anlamda anlatabilecek kadar şey öğrenmiyorum.)
 
+- Agile çalışma tarzından kısaca bahsedecek olursam, dinamik proje geliştirme stili gibi bir şey. Eskiden her revize geldiğinde projeye en baştan başlanıyormuş, bu durum ise proje geliştirmeyi çok zorlaştırıyor ve uzun süreler gerektiriyormuş. Onun yerine projeyi yeni bilgiler geldiğinde var olan güncel halinin üstüne yapılacak değişikliklerle ilerleme fikri agile oluyor imiş. Genelde de jira platformu kullanılıyor sanırım, ikişer haftalık sprint denilen son düzlük çalışmaları gibi periyotlarla çalışıyorsunuz ve herkesin kendine atanan görevleri tamamlamaya çalışıyor. Product owner denilen PM(project manager) gibi olan bireylerin projeyi parçalayarak milestonelara böldüğü, developerlara sprintlerini hazırlayan kişilerdir, aynı zamanda product owner olarak developerlar ile customer arasında köprü görevi görürler yazılım kısmına dair yapılan değişikliklerin çıktılarından haberdar ve müşterileri bilgilendirip pazarlığı sağlayan kişilerdir. Scrum Master olarak tabir edilen kişiler ise birnevi koçluk yaparak sprintlerin ne durumda olduğunu nerelerde takılındığını nerede sorun olduğunu takip eden, toplantıları ayarlayan, kısaca iletişimi sağlayanlardır.
 </details>
 
+
+
+
+<details>
+<summary><b>Gün 2 — 16.07.2026</b></summary>
+
+<br>
+*(Yarın gece burası dolduralacaktır.)*
+</details>
 <!--
 YENİ GÜN EKLEME ŞABLONU (kopyala, altına yapıştır, doldur):
 
