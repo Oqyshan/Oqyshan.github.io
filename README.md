@@ -70,7 +70,16 @@ Eveeet... Yeni bir gün başlangıcı, yine bir günün sonu. Bugün Tübitak 22
 
 
 <details>
-<summary><b>Gün 2 — 16.07.2026</b></summary>
+<summary><b>Gün 3 — 16.07.2026</b></summary>
+
+<br>
+Eveet.. yeni bir gün yine bir gün daha bitti. Bugün de aslında pek bir ilerleme kat edemedik desek yerinde olur. Biraz daha farkındalık yaşadığım, geç kalmışlık hissini bir nebze de olsa üzerimden atıp bazı şeylerin tahmin edilenden daha kısa sürede bitebileceği sadece odaklanmak ve ilerlemek gerektiğini fark ettim. Beşer saatlik periyotlarla çalışmayı bölersem, data science, data structures and algorithms ve LLM'ler üzerine yapay zekalar mcp api ler üzerine 3 farklı koldan ilerlersem benim için aslında 2027ye ulaştığımda bir devrim yaşanmış olacak. Tek ihtiyacımız olan şey süreklilik ve pes etmemek. 
+
+Bugün de SOW(scope of work veya kimisine göre statement of work) üzerine çalışmalar yaptım. Agile tarzı proje geliştiriyoruz fakat bunun her çalışan için belirli bir deliverables, milestones, time bound, reports, scope gibi kavramların ortak olması gerekir ve belirli bir anlayış üzerine ilerlenilmesi gerekir. Öbür türlü insanlar ne yaptığını nereye kadar nasıl yapması gerektiği gibi çok temel ve önemli kavramları bilemez. İşte bunu da dinamik olarak değişebilen bir yapıda taslak olarak sunulan rapor vari yapıya SOW diyoruz. Agile çalışma tarzının atası denilebilir biraz daha ilkel bir yöntem kalıyor çünkü kağıt veya word üzerinde planlı bir taslak oluşturuyorsun ve duruma göre bu taslakta revize işlemini yapabiliyorsun. Birkaç daha ufak detayları öğrendim fakat anlatmaya değer değil. MML book okumaya başladım mathematics for machine learning diye ne kadar faydalı bilmiyorum ama bi göz atmak istedim vaktimin bir kısmını da oraya ayırıyorum. Araya bir dipnot geçmem gerekirse de courseradaki kurslarda artık belirli bir eşiği kırarak hızlanmam ve etkili öğrenme kısmına geçiş yapmam gerekiyor çünkü 14 günde 9 kursu bitiremeyeceğim gibi duruyor. Ve bu kurs yoğunluklarının içerisinde bootcamp ve kişisel ilerleme de dahil. Bugüne puanım 5,5/10. Öbür günlerde görüşmek üzere. 
+</details>
+
+<details>
+<summary><b>Gün 4 — 17.07.2026</b></summary>
 
 <br>
 *(Yarın gece burası dolduralacaktır.)*
