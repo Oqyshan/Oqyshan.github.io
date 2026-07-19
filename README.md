@@ -79,10 +79,17 @@ Bugün de SOW(scope of work veya kimisine göre statement of work) üzerine çal
 </details>
 
 <details>
-<summary><b>Gün 4 — 17.07.2026</b></summary>
+<summary><b>Gün 4 — 19.07.2026</b></summary>
 
 <br>
-*(Yarın gece burası dolduralacaktır.)*
+Birkaç günlük molanın ardından geri döndük ve çalışmalara devam ediyoruz. Coursera kursları üzerinde ilerleme gösterdik ve bir kursu tamamladık. Son 10 gün ve geriye 9 kurs kaldı hızı ve odağı artırıyoruz. İletişim üzerine ilerledik, iletişimin anlam ve önemi üzerine durarak aslında bir işte çalışırken teorik nerdy denilen bilgilerden sonra en önemlisi iletişim olmuş oluyor. Aslında en önemlisi fakat o teorik ve pratik bilgiler olmasa oralara gelmek sadece iletişim ile mümkün olmuyor. Bakalım yeni bir günde neler olacak. Güzel hedefler bekliyorum. Bugüne puanım 5/10 
+</details>
+
+<details>
+<summary><b>Gün 5 — 20.07.2026</b></summary>
+
+<br>
+**(Yarın gelecek)**
 </details>
 <!--
 YENİ GÜN EKLEME ŞABLONU (kopyala, altına yapıştır, doldur):
